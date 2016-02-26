@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./noticiadelasant00peregoog/noticiadelasant00peregoog_0140.png"; bbox 0 0 2667 4200; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 953 1305 1527 1394">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 953 1305 1527 1394">
+     <span class='ocr_line' id='line_1_1' title="bbox 953 1305 1527 1394; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 953 1305 1527 1394; x_wconf 86' lang='lat' dir='ltr'><strong>NOTICIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 445 1564 2029 1705">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 445 1564 2029 1705">
+     <span class='ocr_line' id='line_1_2' title="bbox 445 1564 2029 1705; baseline 0.002 -54"><span class='ocrx_word' id='word_1_2' title='bbox 445 1583 570 1652; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 623 1584 784 1654; x_wconf 80' lang='lat' dir='ltr'><strong>LAs</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 810 1585 1462 1705; x_wconf 44' lang='lat' dir='ltr'><strong>¹&lt;301⁴F.c(2101*uzs</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1504 1564 2029 1656; x_wconf 76' lang='lat' dir='ltr'><strong>cAN6N10As</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 864 1842 1602 1936">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 864 1842 1602 1936">
+     <span class='ocr_line' id='line_1_3' title="bbox 864 1842 1602 1936; baseline -0.007 0"><span class='ocrx_word' id='word_1_6' title='bbox 864 1842 1602 1936; x_wconf 76' lang='lat' dir='ltr'><strong>ESPANOLAS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1015 2198 1449 2269">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1015 2198 1449 2269">
+     <span class='ocr_line' id='line_1_4' title="bbox 1015 2198 1449 2269; baseline -0.002 -2"><span class='ocrx_word' id='word_1_7' title='bbox 1015 2199 1310 2269; x_wconf 88' lang='lat' dir='ltr'>PARTE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1355 2198 1449 2268; x_wconf 88' lang='lat' dir='ltr'><strong>H.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
